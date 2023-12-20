@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit --date "2023-12-21" -m "ReactJS Color Generator Project"
+git commit --date "2023-12-20" -m "ReactJS Projects"
 git push origin
