@@ -15,7 +15,7 @@ export default [
   },
   {
     id: 3,
-    name: 'Larry Little',
+    name: 'Xavier Rodriguez',
     age: 36,
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
